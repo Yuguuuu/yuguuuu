@@ -75,11 +75,6 @@ Python Developer • Computer Vision Enthusiast • AI Explorer
 
 # 📊 GitHub Analytics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuguuuu&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
