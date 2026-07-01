@@ -1,4 +1,4 @@
-# Hi there! 👋 
+# Hi there!  
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -51,3 +51,15 @@ I am a passionate developer focused on building functional, intelligent applicat
 [![Email](https://img.shields.io/badge/Email-yugdeep108%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugdeep108@gmail.com)
 
 <p align="center">⭐️ Thanks for stopping by! Keep building. 🚀</p>
+
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/r-yugdeep-347827334/">
+    <img src="https://img.shields.io/badge/LinkedIn-R%20Yugdeep-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yugdeep108@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yugdeep108%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
