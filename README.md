@@ -1,65 +1,141 @@
-# Hi there!  
+# <h1 align="center">Hi 👋, I'm R Yugdeep</h1>
+
+<h3 align="center">
+Python Developer • Computer Vision Enthusiast • AI Explorer
+</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Python+%26+Web+Developer;Computer+Vision+Enthusiast;Building+Smart+Applications" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Python+Developer;Computer+Vision+Enthusiast;Flask+Backend+Developer;Building+AI-Powered+Applications;Always+Learning+Something+New+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yuguuuu&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Yuguuuu?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/Yuguuuu?style=for-the-badge&logo=github" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I am a passionate developer focused on building functional, intelligent applications. I love working at the intersection of web backend frameworks and computer vision, creating automated systems that solve real-world problems.
+<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-* 💡 **Current Focus:** Enhancing AI-driven automation and real-time monitoring tools.
-* 🌱 **Exploring:** Deep learning optimization and scalable application architecture.
-* 💬 **Ask me about:** Python, Flask, OpenCV, or image processing workflows.
-* ⚡ **Fun Fact:** I write code that watches you... to make sure you aren't falling asleep at the wheel! 😉
+🎯 Passionate about developing intelligent applications powered by AI and Computer Vision.
+
+💻 I enjoy building scalable backend systems using **Python & Flask**.
+
+🧠 Currently learning **Deep Learning, AI Optimization, and System Design**.
+
+👀 Interested in:
+- Artificial Intelligence
+- Computer Vision
+- Backend Development
+- Automation Systems
+
+💬 Ask me about:
+- Python
+- Flask
+- OpenCV
+- Image Processing
+- REST APIs
+
+⚡ Fun Fact:
+> My code literally watches people... to ensure they don't fall asleep while driving 😄
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### ⚙️ Backend & Frameworks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+### Languages
 
-### 🖥️ Frontend Basics
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
 
-### 🧰 Tools & Libraries
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### Libraries
+
+- OpenCV
+- NumPy
+- Pandas
+- Matplotlib
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuguuuu&theme=tokyonight" alt="GitHub Streak" height="195px" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yuguuuu&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuguuuu&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuguuuu&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🤝 Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-yugdeep108%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugdeep108@gmail.com)
-
-<p align="center">⭐️ Thanks for stopping by! Keep building. 🚀</p>
-
-
-## 🤝 Let's Connect
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/r-yugdeep-347827334/">
-    <img src="https://img.shields.io/badge/LinkedIn-R%20Yugdeep-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yugdeep108@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yugdeep108%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<img src="https://github-profile-trophy.vercel.app/?username=Yuguuuu&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 🌱 Currently Working On
+
+- 🤖 AI-powered Driver Drowsiness Detection
+- 🎯 Flask Web Applications
+- 📷 Real-time Computer Vision Projects
+- ⚙️ Backend API Development
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuguuuu&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/r-yugdeep-347827334/">
+<img src="https://img.shields.io/badge/LinkedIn-R%20Yugdeep-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yugdeep108@gmail.com">
+<img src="https://img.shields.io/badge/Email-yugdeep108@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."* 🚀
+
 </p>
