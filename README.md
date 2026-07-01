@@ -40,7 +40,7 @@ I am a passionate developer focused on building functional, intelligent applicat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuguuuu&show_icons=true&theme=tokyonight&count_private=true" alt="Yugdeep's GitHub Stats" height="195px" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuguuuu&theme=tokyonight" alt="GitHub Streak" height="195px" />
 </p>
 
