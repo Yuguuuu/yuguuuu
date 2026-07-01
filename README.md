@@ -77,7 +77,7 @@ Python Developer • Computer Vision Enthusiast • AI Explorer
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yuguuuu&show_icons=true&theme=tokyonight&hide_border=true"/>
+der=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuguuuu&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -92,10 +92,6 @@ Python Developer • Computer Vision Enthusiast • AI Explorer
 ---
 
 # 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Yuguuuu&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
 
 ---
 
